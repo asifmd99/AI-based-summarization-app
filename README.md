@@ -7,6 +7,7 @@ This is a project that uses the AI to summarize the text. It uses the OpenAI GPT
 3. Run `npm run dev` to start the project
 
 ## Live Demo
+https://ai-summify.netlify.app/
 
 
 ## How it works
